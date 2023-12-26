@@ -1,4 +1,4 @@
 # Statistics
 Python and R codes for Statistics
 
-Last updated: __26 December 2023__
+Updated on: __26 December 2023__
